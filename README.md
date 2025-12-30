@@ -1,9 +1,7 @@
 ## You can call me Alvin 👋
 
-- 🔭 I’m currently in university and aiming to become a full stack developer.
-- 🌱 I’m currently learning Java, HTML, CSS, and JavaScript.
-- 📫 How to reach me: flaviorodrigues7658@gmail.com
-- 😄 Pronouns: he/him
+- i´m just trying to get better.
+
 
 ---
 
